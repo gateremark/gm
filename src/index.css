@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Kite+One&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    background-color: black;
+    font-family: 'Kite One', sans-serif;
+}
