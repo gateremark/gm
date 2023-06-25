@@ -7,4 +7,5 @@
 html {
 	background-color: black;
 	font-family: "Kite One", sans-serif;
+	cursor: url(assets/arrow.png), default;
 }

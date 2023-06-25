@@ -36,7 +36,7 @@ function App() {
 			</p>
 			<div className="flex text-[#fff] text-3xl gap-5 my-7 justify-center items-center">
 				<a
-					className="hover:scale-110 transition duration-150"
+					className="hover:scale-110 transition duration-150 cursor-pointc"
 					href="https://www.linkedin.com/in/gateremark/"
 					target="_blank"
 				>
@@ -44,7 +44,7 @@ function App() {
 					<SlSocialLinkedin />{" "}
 				</a>
 				<a
-					className="hover:scale-110 transition duration-150"
+					className="hover:scale-110 transition duration-150 cursor-pointc"
 					href="https://twitter.com/gatere_mark"
 					target="_blank"
 				>
@@ -54,7 +54,7 @@ function App() {
 			</div>
 			<div className="text-[#BDBDBD] flex flex-col gap-5 md:w-[55%] w-full items-center justify-center">
 				<a
-					className=" w-full text-center bg-[#525151] rounded-[30px] hover:scale-[102%] transition duration-300"
+					className=" w-full text-center bg-[#525151] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
 					href="https://github.com/gateremark"
 					target="_blank"
 				>
@@ -70,7 +70,7 @@ function App() {
 					</div>
 				</a>
 				<a
-					className=" w-full text-center bg-[#525151] rounded-[30px] hover:scale-[102%] transition duration-300"
+					className=" w-full text-center bg-[#525151] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
 					href="https://dev.to/gateremark"
 					target="_blank"
 				>
@@ -86,7 +86,7 @@ function App() {
 					</div>
 				</a>
 				<a
-					className=" w-full text-center bg-[#525151] rounded-[30px] hover:scale-[102%] transition duration-300"
+					className=" w-full text-center bg-[#525151] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
 					href="https://hashnode.com/@gateremark"
 					target="_blank"
 				>
@@ -102,7 +102,7 @@ function App() {
 					</div>
 				</a>
 				<a
-					className=" w-full text-center bg-[#525151] rounded-[30px] hover:scale-[102%] transition duration-300"
+					className=" w-full text-center bg-[#525151] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
 					href="https://gateremark.medium.com/"
 					target="_blank"
 				>
@@ -118,7 +118,7 @@ function App() {
 					</div>
 				</a>
 				<a
-					className=" w-full text-center bg-[#525151] rounded-[30px] hover:scale-[102%] transition duration-300"
+					className=" w-full text-center bg-[#525151] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
 					href="https://gateremark.vercel.app/"
 					target="_blank"
 				>
@@ -134,7 +134,7 @@ function App() {
 					</div>
 				</a>
 				<a
-					className=" w-full text-center bg-[#525151] rounded-[30px] hover:scale-[102%] transition duration-300"
+					className=" w-full text-center bg-[#525151] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
 					href="https://drive.google.com/file/d/12AMcf0bl-dEfxma2KrAEli19FSRjwOKi/view?usp=drive_link"
 					target="_blank"
 				>
@@ -150,9 +150,7 @@ function App() {
 					</div>
 				</a>
 			</div>
-			<p className="text-[#fff] mt-10">
-				Made with ❤️ by gateremark
-			</p>
+			<p className="text-[#fff] mt-10">Made with ❤️ by gateremark</p>
 		</div>
 	);
 }
