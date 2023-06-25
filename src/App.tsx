@@ -28,10 +28,10 @@ function App() {
 // 			});
 // 	};
 	return (
-		<div className="flex flex-col justify-center items-center m-12">
+		<div className="flex flex-col justify-center items-center mx-3 my-12 md:mx-12">
 			<img className=" h-24 rounded-full" src={Gatere} alt="gateremark" />
 			<p className=" text-[#fff] my-3 text-lg font-bold">@gateremark</p>
-			<p className=" text-[#fff] text-base">
+			<p className=" text-[#fff] text-base text-center">
 				| MERN Stack | Machine Learning | #foreverlearner
 			</p>
 			<div className="flex text-[#fff] text-3xl gap-5 my-7 justify-center items-center">
