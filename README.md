@@ -13,5 +13,5 @@ This is a recreation of my Linktree version using React (TypeScript), Tailwind C
 
 ## Demo
 
-You can see the live demo [here](bit.ly/gatere).
+You can see the live demo [here](https://bit.ly/gatere).
 
