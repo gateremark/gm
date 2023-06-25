@@ -150,7 +150,7 @@ function App() {
 					</div>
 				</a>
 			</div>
-			<p className="text-[#fff] mt-10">Made with ❤️ by gateremark</p>
+			<p className="text-[#fff] mt-10 text-center">Made with ❤️ by gateremark</p>
 		</div>
 	);
 }

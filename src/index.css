@@ -9,3 +9,15 @@ html {
 	font-family: "Kite One", sans-serif;
 	cursor: url(assets/arrow.png), default;
 }
+
+::-webkit-scrollbar {
+	width: 10px;
+	height: 8px;
+}
+::-webkit-scrollbar-track {
+	background: #484e5c;
+}
+::-webkit-scrollbar-thumb {
+	background: #0bd3fd;
+	opacity: 1;
+}
