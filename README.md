@@ -1,4 +1,4 @@
-# My Linktree
+# My Linktr.ee
 
 This is a recreation of my Linktree version using React (TypeScript), Tailwind CSS, and React Icons. It serves as a centralized hub to showcase my various social media profiles and websites.
 
