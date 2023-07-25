@@ -135,7 +135,7 @@ function App() {
 				</a>
 				<a
 					className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
-					href="https://drive.google.com/file/d/1_h0CUFEQZHVpXBSZtX_lCY7v0m-KIk2K/view?usp=sharing"
+					href="https://drive.google.com/file/d/1tCoBP_Rj-cWj7FGwKJJBk_F4X_x3bvfI/view?usp=sharing"
 					target="_blank"
 				>
 					<div className="flex justify-between items-center ml-2 mr-4">
