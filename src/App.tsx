@@ -39,6 +39,7 @@ function App() {
 					className="hover:scale-110 transition duration-150 hover:text-[#2867b2] cursor-pointc"
 					href="https://www.linkedin.com/in/gateremark/"
 					target="_blank"
+					rel="noopener"
 				>
 					{" "}
 					<SlSocialLinkedin />{" "}
@@ -47,6 +48,7 @@ function App() {
 					className="hover:scale-110 transition duration-150 hover:text-[#39a9d9] cursor-pointc"
 					href="https://twitter.com/gatere_mark"
 					target="_blank"
+					rel="noopener"
 				>
 					{" "}
 					<SlSocialTwitter />{" "}
@@ -57,6 +59,7 @@ function App() {
 					className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
 					href="https://github.com/gateremark"
 					target="_blank"
+					rel="noopener"
 				>
 					<div className="flex justify-between items-center ml-2 mr-4">
 						<TbBrandGithub className=" text-[35px]" />
@@ -73,6 +76,7 @@ function App() {
 					className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
 					href="https://dev.to/gateremark"
 					target="_blank"
+					rel="noopener"
 				>
 					<div className="flex justify-between items-center ml-2 mr-4">
 						<TbStack2 className=" text-[35px]" />
@@ -89,6 +93,7 @@ function App() {
 					className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
 					href="https://hashnode.com/@gateremark"
 					target="_blank"
+					rel="noopener"
 				>
 					<div className="flex justify-between items-center ml-2 mr-4">
 						<TbNotebook className=" text-[35px]" />
@@ -105,6 +110,7 @@ function App() {
 					className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
 					href="https://gateremark.medium.com/"
 					target="_blank"
+					rel="noopener"
 				>
 					<div className="flex justify-between items-center ml-2 mr-4">
 						<TbNotes className=" text-[35px]" />
@@ -121,6 +127,7 @@ function App() {
 					className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
 					href="https://gateremark.vercel.app/"
 					target="_blank"
+					rel="noopener"
 				>
 					<div className="flex justify-between items-center ml-2 mr-4">
 						<TbWorld className=" text-[35px]" />
@@ -137,6 +144,7 @@ function App() {
 					className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
 					href="https://drive.google.com/file/d/1PQsFEReyNeqgxPclK14HAb9UeKpCaWXD/view?usp=sharing"
 					target="_blank"
+					rel="noopener"
 				>
 					<div className="flex justify-between items-center ml-2 mr-4">
 						<TbUser className=" text-[35px]" />
