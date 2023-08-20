@@ -12,21 +12,21 @@ import {
 } from "react-icons/tb";
 
 function App() {
-//   const [copySuccess, setCopySuccess] = useState(false);
+	//   const [copySuccess, setCopySuccess] = useState(false);
 
-// 	const handleCopyClick = (link: string) => {
-// 		navigator.clipboard
-// 			.writeText(link)
-// 			.then(() => {
-// 				setCopySuccess(true);
-// 				setTimeout(() => {
-// 					setCopySuccess(false);
-// 				}, 2000);
-// 			})
-// 			.catch((error) => {
-// 				console.error("Copy failed:", error);
-// 			});
-// 	};
+	// 	const handleCopyClick = (link: string) => {
+	// 		navigator.clipboard
+	// 			.writeText(link)
+	// 			.then(() => {
+	// 				setCopySuccess(true);
+	// 				setTimeout(() => {
+	// 					setCopySuccess(false);
+	// 				}, 2000);
+	// 			})
+	// 			.catch((error) => {
+	// 				console.error("Copy failed:", error);
+	// 			});
+	// 	};
 	return (
 		<div className="flex flex-col justify-center items-center mx-3 my-12 md:mx-12">
 			<img className=" h-24 rounded-full" src={Gatere} alt="gateremark" />
@@ -142,7 +142,7 @@ function App() {
 				</a>
 				<a
 					className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
-					href="https://drive.google.com/file/d/1PQsFEReyNeqgxPclK14HAb9UeKpCaWXD/view?usp=sharing"
+					href="https://drive.google.com/file/d/1uLb2s9xHU7WQdwxt8dyR6xON_ZQUbi2Q/view?usp=sharing"
 					target="_blank"
 					rel="noopener"
 				>
