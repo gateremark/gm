@@ -142,7 +142,7 @@ function App() {
 				</a>
 				<a
 					className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
-					href="https://drive.google.com/file/d/1bY8EGhy_Ba7DHnXdOa0ItUOkME53JhEh/view?usp=drive_link"
+					href="https://drive.google.com/file/d/1VB1yOlRvH-wrNZ1_60AP3z7VHe1rgNvP/view?usp=drive_link"
 					target="_blank"
 					rel="noopener"
 				>
