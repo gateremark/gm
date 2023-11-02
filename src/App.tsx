@@ -1,4 +1,3 @@
-// import { useState } from "react";
 import Gatere from "./assets/gmark.jpg";
 import LinkButton from "./components/LinkButton";
 import { SlSocialLinkedin, SlSocialTwitter } from "react-icons/sl";
@@ -11,8 +10,21 @@ import {
 	TbNotes,
 } from "react-icons/tb";
 
+interface HeaderLink {
+	name: string;
+	link: string;
+	icon: JSX.Element;
+}
+
+interface LinkData {
+	name: string;
+	link: string;
+	icon: JSX.Element;
+	className?: string;
+}
+
 function App() {
-	const headerLinks = [
+	const headerLinks: HeaderLink[] = [
 		{
 			name: "LinkedIn",
 			link: "https://www.linkedin.com/in/gateremark/",
@@ -24,7 +36,8 @@ function App() {
 			icon: <SlSocialTwitter />,
 		},
 	];
-	const linksData = [
+
+	const linksData: LinkData[] = [
 		{
 			name: "GitHub",
 			link: "https://github.com/gateremark",

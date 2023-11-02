@@ -1,6 +1,12 @@
 import { TbShare2 } from "react-icons/tb";
 
-const LinkButton = ({ name, link, icon }) => {
+interface LinkButtonProps {
+	name: string;
+	link: string;
+	icon: JSX.Element;
+}
+
+const LinkButton: React.FC<LinkButtonProps> = ({ name, link, icon }) => {
 	return (
 		<a
 			className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
