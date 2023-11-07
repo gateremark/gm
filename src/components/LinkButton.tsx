@@ -9,7 +9,7 @@ interface LinkButtonProps {
 const LinkButton: React.FC<LinkButtonProps> = ({ name, link, icon }) => {
 	return (
 		<a
-			className=" w-full text-center bg-[#525151] hover:bg-[#444444] rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
+			className=" w-full text-center bg-[#00000060] hover:bg-[#00000070] backdrop-blur-[3px] shadow-3xl rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc"
 			href={link}
 			target="_blank"
 			rel="noopener"
@@ -18,7 +18,7 @@ const LinkButton: React.FC<LinkButtonProps> = ({ name, link, icon }) => {
 				{icon}
 				<p className="p-5">{name}</p>
 				<TbShare2
-					className="text-[40px] hover:bg-[#5F5E5E] transition ease-in-out duration-300 rounded-full p-2"
+					className="text-[40px] hover:bg-[#00000070] transition ease-in-out duration-300 rounded-full p-2"
 					title="GitHub"
 				/>
 			</div>
