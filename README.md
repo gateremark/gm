@@ -6,7 +6,7 @@ This is a recreation of my Linktree version using React (TypeScript), Tailwind C
 <div align="center">
 <a href="https://bit.ly/gatere">
    
-![Preview](https://i.postimg.cc/mD45YJWQ/ln.png)
+![Preview](https://res.cloudinary.com/dvuazircp/image/upload/v1703193480/Screenshot-from-2023-12-22-00-13-46_jpvuvm.webp)
 
 </a>
 </div>
