@@ -10,7 +10,7 @@ interface LinkButtonProps {
 const LinkButton: React.FC<LinkButtonProps> = ({ name, link, icon }) => {
     return (
         <div className=" relative w-full text-center bg-[#00000060] hover:bg-[#00000070] backdrop-blur-[3px] shadow-3xl rounded-[30px] hover:scale-[102%] transition duration-300 cursor-pointc">
-            <Toaster richColors position="top-right" />
+            <Toaster richColors position="top-right" closeButton />
             <a href={link} target="_blank" rel="noopener">
                 <div className="flex justify-between items-center ml-2 mr-4">
                     {icon}
