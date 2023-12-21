@@ -40,37 +40,37 @@ function App() {
 	];
 
 	const linksData: LinkData[] = [
-		{
-			name: "GitHub",
-			link: "https://github.com/gateremark",
-			icon: <TbBrandGithub className=" text-[35px]" />,
-		},
-		{
-			name: "Dev.to",
-			link: "https://dev.to/gateremark",
-			icon: <TbStack2 className=" text-[35px]" />,
-		},
-		{
-			name: "Hashnode",
-			link: "https://hashnode.com/@gateremark",
-			icon: <TbNotebook className=" text-[35px]" />,
-		},
-		{
-			name: "Medium",
-			link: "https://gateremark.medium.com/",
-			icon: <TbNotes className=" text-[35px]" />,
-		},
-		{
-			name: "My Portfolio",
-			link: "https://gateremark.vercel.app/",
-			icon: <TbWorld className=" text-[35px]" />,
-		},
-		{
-			name: "My Résumé",
-			link: "https://drive.google.com/file/d/1cbKXGu7LOQ_F14CQz9ny-3DqKY2UeT9R/view?usp=drive_link",
-			icon: <TbUser className=" text-[35px]" />,
-		},
-	];
+        {
+            name: "GitHub",
+            link: "https://github.com/gateremark",
+            icon: <TbBrandGithub className=" text-[35px]" />,
+        },
+        {
+            name: "Dev.to",
+            link: "https://dev.to/gateremark",
+            icon: <TbStack2 className=" text-[35px]" />,
+        },
+        {
+            name: "Hashnode",
+            link: "https://hashnode.com/@gateremark",
+            icon: <TbNotebook className=" text-[35px]" />,
+        },
+        {
+            name: "Medium",
+            link: "https://gateremark.medium.com/",
+            icon: <TbNotes className=" text-[35px]" />,
+        },
+        {
+            name: "My Portfolio",
+            link: "https://gateremark.vercel.app/",
+            icon: <TbWorld className=" text-[35px]" />,
+        },
+        {
+            name: "My Résumé",
+            link: "https://drive.google.com/file/d/1IDsb6o6bjtoWNoZFgsy5F4oGZB3dB8o-/view?usp=drive_link",
+            icon: <TbUser className=" text-[35px]" />,
+        },
+    ];
 	return (
 		<div className="relative">
 			<video
