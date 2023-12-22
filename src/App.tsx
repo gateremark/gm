@@ -65,12 +65,12 @@ function App() {
         },
         {
             name: "My Portfolio",
-            link: "https://www.gatere.tech/",
+            link: "https://gatere.me/",
             icon: <TbWorld className=" text-[35px]" />,
         },
         {
             name: "My Résumé",
-            link: "https://drive.google.com/file/d/1s9P87dURW58p_9WDzczvnYqQ3y20OuT7/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1_tPDnapu_a9poEAU0zMKOUD4sCkkxI0z/view?usp=drive_link",
             icon: <TbUser className=" text-[35px]" />,
         },
     ];
