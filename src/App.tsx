@@ -70,7 +70,7 @@ function App() {
         },
         {
             name: "My Résumé",
-            link: "https://drive.google.com/file/d/1_tPDnapu_a9poEAU0zMKOUD4sCkkxI0z/view?usp=drive_link",
+            link: "https://drive.google.com/file/d/1rx1SrGLi9BW6kNHAxj40jBfWvy8qYCaG/view?usp=drive_link",
             icon: <TbUser className=" text-[35px]" />,
         },
     ];
