@@ -65,7 +65,7 @@ function App() {
         },
         {
             name: "My Portfolio",
-            link: "https://gatere.me/",
+            link: "https://gateremark.me/",
             icon: <TbWorld className=" text-[35px]" />,
         },
         {
